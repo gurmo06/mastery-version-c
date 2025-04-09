@@ -1,0 +1,5 @@
+r testcases/basic_add.s
+p new_token
+p new_token->next
+p val_b
+q
